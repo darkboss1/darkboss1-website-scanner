@@ -1,27 +1,30 @@
 #! /bin/bash
 clear
 echo `tput setaf 111`"
-███████╗██╗    ██╗██╗████████╗    ███████╗ ██████╗ █████╗ ███╗   ██╗███╗   ██╗███████╗██████╗ 
-██╔════╝██║    ██║██║╚══██╔══╝    ██╔════╝██╔════╝██╔══██╗████╗  ██║████╗  ██║██╔════╝██╔══██╗
-███████╗██║ █╗ ██║██║   ██║       ███████╗██║     ███████║██╔██╗ ██║██╔██╗ ██║█████╗  ██████╔╝
-╚════██║██║███╗██║██║   ██║       ╚════██║██║     ██╔══██║██║╚██╗██║██║╚██╗██║██╔══╝  ██╔══██╗
-███████║╚███╔███╔╝██║   ██║       ███████║╚██████╗██║  ██║██║ ╚████║██║ ╚████║███████╗██║  ██║
-╚══════╝ ╚══╝╚══╝ ╚═╝   ╚═╝       ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═══╝╚══════╝╚═╝  ╚═╝
+
+
+    ____     ___     ____     __ __    ____    ____    _____   _____   ___
+   / __ \   /   |   / __ \   / //_/   / __ )  / __ \  / ___/  / ___/  <  /
+  / / / /  / /| |  / /_/ /  / ,<     / __  | / / / /  \__ \   \__ \   / / 
+ / /_/ /  / ___ | / _, _/  / /| |   / /_/ / / /_/ /  ___/ /  ___/ /  / /  
+/_____/  /_/  |_|/_/ |_|  /_/ |_|  /_____/  \____/  /____/  /____/  /_/   
+                                                                          
+
           ________________________________________________________________________
          |                                                                        |
-         |     	               WebSite: RedSecurity.xyz                           |
-         |	                Creator: RedSecurity Admin		          |
-         |	                 E-mail: Info@RedSecurity.xyz		          |
+         |     	               WebSite: serialkey.top                           |
+         |	                Creator: darkboss1 Admin		          |
+         |	                 E-mail: chowdhuryethicalhacker@gmail.com		          |
          |							     	          | 
          --------------------------------------------------------------------------
 
 "
 sleep .12
-echo `tput setaf 209` '  Swit Scanner is Very Powerful and Easy Automated Web Penetration Testing Tool'
+echo `tput setaf 209` '  darkboss1-website-scanneris Very Powerful and Easy Automated Web Penetration Testing Tool'
 echo '    Swit Scanner uses whois,whatweb,subfinder,wafw00f,a2sv,dnsenum,'
 echo '    sqlmap,wpscan,goofile,ffuf,photon,hakrawler For Scan'
 echo '     Working with Swet scanner is easier than you think'
 echo '      In a word: Swit Scanner is is Very good and Easy Scanner'
-echo '        WebSite: RedSecurity.xyz'
-echo '         E-mail: Info@RedSecurity.xyz'
+echo '        WebSite: serialkey.top'
+echo '         E-mail: chowdhuryethicalhacker@gmail.com'
 echo `tput setaf 2` '' `tput sgr0`
